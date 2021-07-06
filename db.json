@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "city": "Bartholomebury"
+    },
+    {
+      "name": "test",
+      "username": "test123222",
+      "email": "testas@gmail.com",
+      "city": "Houston",
+      "id": 2
+    },
+    {
+      "name": "Sebastian Cappadonna",
+      "username": "SebaSCFx12",
+      "email": "seb1232@hotmail.com",
+      "city": "Miami",
+      "id": 3
+    }
+  ]
+}
